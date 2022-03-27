@@ -1,6 +1,7 @@
-### Olá visitante!
+### Olá visitante! Sejá bem vindo ao meu perfil!
 
 - 🌱 Estudando desenvolvimento web na Trybe
+- 💰 Trabalhando em projetos pessoais.
 - 😄 Pronome: ele/dele.
 <div align="center">
   <a href="https://github.com/GusCabraal">
