@@ -1,6 +1,6 @@
 ### Olá visitante! Sejá bem vindo ao meu perfil!
 
-- 🌱 Estudando desenvolvimento web na Trybe
+- 🌱 Estudando desenvolvimento web na [Trybe](https://www.betrybe.com/)
 - 💰 Trabalhando em projetos pessoais.
 - 😄 Pronome: ele/dele.
 - Você pode ver os exercicios que resolvi ao longo do curso da [Trybe](https://www.betrybe.com/) nesse repositorio:[Trybe-exercises]  (https://github.com/GusCabraal/trybe-exercises)
