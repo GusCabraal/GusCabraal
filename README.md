@@ -5,7 +5,7 @@
 - 😄 Pronome: ele/dele.
 - Você pode ver os exercicios que resolvi ao longo do curso da [Trybe](https://www.betrybe.com/) nesse repositorio:[Trybe-exercises]  (https://github.com/GusCabraal/trybe-exercises)
 - [Meu portfólio](https://guscabraal.github.io/)
-- 
+
 <div align="center">
   <a href="https://github.com/GusCabraal">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GusCabraal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
