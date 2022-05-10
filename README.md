@@ -4,7 +4,7 @@
 - 💰 Trabalhando em projetos pessoais.
 - 😄 Pronome: ele/dele.
 - Você pode ver os exercicios que resolvi ao longo do curso da [Trybe](https://www.betrybe.com/) nesse repositorio: [Trybe-exercises](https://github.com/GusCabraal/trybe-exercises)
-- [Meu portfólio](https://guscabraal.github.io/)
+- [Meu portfólio](https://guscabraal.github.io/) em construção....
 
 <div align="center">
   <a href="https://github.com/GusCabraal">
