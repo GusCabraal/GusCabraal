@@ -1,6 +1,6 @@
 ### Olá visitante! Sejá bem vindo ao meu perfil!
 
-- 🌱 Estudante desenvolvimento web na [Trybe](https://www.betrybe.com/)
+- 🌱 Estudante de desenvolvimento web na [Trybe](https://www.betrybe.com/)
 - 💰 Trabalhando em projetos pessoais.
 - 📚 Aprendendo React
 - 😄 Pronome: ele/dele.
