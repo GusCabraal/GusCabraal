@@ -2,9 +2,10 @@
 
 - 🌱 Estudando desenvolvimento web na [Trybe](https://www.betrybe.com/)
 - 💰 Trabalhando em projetos pessoais.
+- 📚 Estudando React
 - 😄 Pronome: ele/dele.
 - Você pode ver os exercicios que resolvi ao longo do curso da [Trybe](https://www.betrybe.com/) nesse repositorio: [Trybe-exercises](https://github.com/GusCabraal/trybe-exercises)
-- [Meu portfólio](https://guscabraal.github.io/) em construção....
+- [Meu portfólio em construção....](https://guscabraal.github.io/)
 
 <div align="center">
   <a href="https://github.com/GusCabraal">
