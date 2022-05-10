@@ -1,8 +1,8 @@
 ### Olá visitante! Sejá bem vindo ao meu perfil!
 
-- 🌱 Estudando desenvolvimento web na [Trybe](https://www.betrybe.com/)
+- 🌱 Estudante desenvolvimento web na [Trybe](https://www.betrybe.com/)
 - 💰 Trabalhando em projetos pessoais.
-- 📚 Estudando React
+- 📚 Aprendendo React
 - 😄 Pronome: ele/dele.
 - Você pode ver os exercicios que resolvi ao longo do curso da [Trybe](https://www.betrybe.com/) nesse repositorio: [Trybe-exercises](https://github.com/GusCabraal/trybe-exercises)
 - [Meu portfólio em construção....](https://guscabraal.github.io/)
