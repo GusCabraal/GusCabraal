@@ -3,7 +3,7 @@
 - 🌱 Estudante de desenvolvimento web full-stack na [Trybe](https://www.betrybe.com/) desde Fevereiro de 2022.
 - 💰 Trabalhando em projetos pessoais.
 - 📚 Aprendendo React
-- 🤓 Você pode ver os exercicios que resolvi ao longo do curso da [Trybe](https://www.betrybe.com/) nesse repositorio: [Trybe-exercises](https://github.com/GusCabraal/trybe-exercises)
+- 🤓 Você pode ver os exercicios que resolvi ao longo do curso da Trybe nesse repositorio: [Trybe-exercises](https://github.com/GusCabraal/trybe-exercises)
 - ⏳ [Meu portfólio em construção....](https://guscabraal.github.io/)
 
 <div align="center">
