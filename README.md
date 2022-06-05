@@ -10,7 +10,7 @@
 - [Pixel Art]() - HTML, CSS e JS
 - [TrybeTunes]() - React
 
-Aceito sugestões de melhorias.
+
 
 <div align="center">
   <a href="https://github.com/GusCabraal">
