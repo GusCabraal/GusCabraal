@@ -8,7 +8,7 @@
 ##### Repositórios em destaque:
 - [Tela de login]() - React e RTL
 - [Pixel Art]() - HTML, CSS e JS
-- [TrybeTunes]() - React
+- [TrybeWallet](https://github.com/GusCabraal/trybewallet) - React e redux 
 
 
 
