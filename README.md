@@ -5,11 +5,6 @@
 - 📚 Aprendendo React e Tailwind
 - 🤓 Você pode ver os exercicios que resolvi ao longo do curso da Trybe nesse repositorio: [Trybe-exercises](https://github.com/GusCabraal/trybe-exercises)
 - ⏳ [Meu portfólio em construção....](https://guscabraal.github.io/)
-##### Repositórios em destaque:
-- [Tela de login]() - React e RTL
-- [Pixel Art]() - HTML, CSS e JS
-- [TrybeWallet](https://github.com/GusCabraal/trybewallet) - React e redux 
-
 
 
 <div align="center">
