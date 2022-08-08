@@ -4,6 +4,7 @@
 - 💰 Trabalhando em projetos pessoais.
 - 📚 Aprendendo React e Tailwind
 - 🤓 Você pode ver os exercicios que resolvi ao longo do curso da Trybe nesse repositorio: [Trybe-exercises](https://github.com/GusCabraal/trybe-exercises)
+- 💡 Sou um amante de café sem açucar e o que eu gosto de fazer no meu tempo livre é viajar, passar tempo com as pessoas que eu amo e assistir um bom jogo.
 - ⏳ [Meu portfólio em construção....](https://guscabraal.github.io/)
 
 
