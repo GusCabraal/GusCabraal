@@ -5,7 +5,7 @@
 - 🎨 Ja tive contato com React e Tailwind no Front-end
 - 🖥️ Atualmente estudando Node.js, MySQL e Sequelize no Back-end
 - 🤓 Você pode ver os exercicios que resolvi ao longo do curso da Trybe nesse repositorio: [Trybe-exercises](https://github.com/GusCabraal/trybe-exercises)
-- 💡 Sou um amante de café sem açucar viajar e passar tempo com as pessoas que eu amo.
+- 💡 Sou um amante de café sem açucar, viajar e passar tempo com as pessoas que eu amo.
 - ⏳ [Meu portfólio em construção....](https://guscabraal.github.io/)
 
 
