@@ -2,9 +2,9 @@
 
 - 🌱 Estudante de desenvolvimento web full-stack na [Trybe](https://www.betrybe.com/) desde fevereiro de 2022.
 - 💰 Trabalhando em projetos pessoais.
-- 🎨 Ja tive contato com React e Tailwind no Front-end
+- 🎨 Ja tive contato com React, Redux, CSS e Tailwind no Front-end
 - 🖥️ Atualmente estudando Node.js, MySQL e Sequelize no Back-end
-- 🤓 Você pode ver os exercicios que resolvi ao longo do curso da Trybe nesse repositorio: [Trybe-exercises](https://github.com/GusCabraal/trybe-exercises)
+- 🤓 Você pode ver os exercicios que resolvi ao longo do curso da Trybe [nesse repositorio](https://github.com/GusCabraal/trybe-exercises)
 - 💡 Sou um amante de café sem açucar, viajar e passar tempo com as pessoas que eu amo.
 - ⏳ [Meu portfólio em construção....](https://guscabraal.github.io/)
 
