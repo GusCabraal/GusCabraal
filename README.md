@@ -5,7 +5,7 @@
 - 🎨 Ja tive contato com React, Redux, CSS e Tailwind no Front-end
 - 🖥️ Atualmente estudando Node.js, MySQL, Sequelize, Typescript e MongoDB no Back-end
 - 💡 Sou um amante de café sem açucar, viajar e passar tempo com as pessoas que eu amo.
-- ⏳ [Meu portfólio em construção....](https://guscabraal.github.io/)
+- ⏳ [Meu portfólio em construção....](https://portfolio-web-cabral.vercel.app/)
 
 
 <div align="center">
