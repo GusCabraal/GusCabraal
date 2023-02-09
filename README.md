@@ -6,6 +6,7 @@
 - 🖥️ Já estudei Node.js, MySQL, Sequelize, Typescript e MongoDB no Back-end.
 - 💻 Atualmente estudando Python, POO e Design Patterns.
 - 💡 Sou um amante de café sem açucar, viajar e passar tempo com as pessoas que eu amo.
+- 🤓 [Meu projeto que mais me orgulho](https://github.com/GusCabraal/cabralbuster)
 - ⏳ [Meu portfólio em construção....](https://portfolio-web-cabral.vercel.app/)
 
 
