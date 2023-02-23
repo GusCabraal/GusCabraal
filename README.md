@@ -39,8 +39,3 @@
  
   ![Snake animation](https://github.com/GusCabraal/GusCabraal/blob/output/github-contribution-grid-snake.svg)
 </div>
-<div align="center">
-  <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=GusCabraal"/>
-  <img alt="Stars" src="https://img.shields.io/github/stars/GusCabraal?style=social"/>
-  <img alt="Followers" src="https://img.shields.io/github/followers/GusCabraal?style=social"/>
-</div>
