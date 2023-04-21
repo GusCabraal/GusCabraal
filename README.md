@@ -1,13 +1,11 @@
 ### Olá visitante! Sejá bem vindo ao meu perfil!
 
-- 🌱 Estudante de desenvolvimento web full-stack na [Trybe](https://www.betrybe.com/) desde fevereiro de 2022.
+- 🌱 Desenvolvedor web full-stack formado na [Trybe](https://www.betrybe.com/).
 - 💰 Trabalhando com back-end na [Acordo Fechado](https://www.acordofechado.com.br/).
 - 🎨 Já tive contato com React, Redux, CSS e Tailwind no Front-end.
 - 🖥️ Já estudei Node.js, MySQL, Sequelize, Typescript e MongoDB no Back-end.
 - 💻 Atualmente estudando Python, POO e Design Patterns.
 - 💡 Sou um amante de café sem açucar, viajar e passar tempo com as pessoas que eu amo.
-- 🤓 [Projeto pessoal que mais me orgulho](https://github.com/GusCabraal/cabralbuster)
-- ⏳ [Meu portfólio em construção....](https://portfolio-web-cabral.vercel.app/)
 
 
 <div align="center">
