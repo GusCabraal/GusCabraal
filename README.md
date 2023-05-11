@@ -2,10 +2,10 @@
 
 - 🌱 Desenvolvedor web full-stack formado na [Trybe](https://www.betrybe.com/).
 - 💰 Trabalhando com back-end na [Acordo Fechado](https://www.acordofechado.com.br/).
+- 🖥️ Atualmente trablhando com Node.js, Postgres, TypeORM e Typescript.
 - 🎨 Já tive contato com React, Redux, CSS e Tailwind no Front-end.
-- 🖥️ Já estudei Node.js, MySQL, Sequelize, Typescript e MongoDB no Back-end.
 - 💻 Atualmente estudando Python, POO e Design Patterns.
-- 💡 Sou um amante de café sem açucar, viajar e passar tempo com as pessoas que eu amo.
+- 💡 Sou um amante de café sem açucar, viajar e aprender coisas novas.
 
 
 <div align="center">
@@ -25,7 +25,7 @@
     <img align="center" alt="Cabral-typescript" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     <img align="center" alt="Cabral-mysql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
     <img align="center" alt="Cabral-mongodb" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
-    <img align="center" alt="Cabral-mongodb" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+    <img align="center" alt="Cabral-python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 </div>
   
   ##
@@ -34,6 +34,6 @@
   <a href="https://www.linkedin.com/in/guscabraal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gustavocabral97@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
- 
-  ![Snake animation](https://github.com/GusCabraal/GusCabraal/blob/output/github-contribution-grid-snake.svg)
+<!--  
+  ![Snake animation](https://github.com/GusCabraal/GusCabraal/blob/output/github-contribution-grid-snake.svg) -->
 </div>
