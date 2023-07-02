@@ -1,8 +1,8 @@
 ### Olá visitante! Sejá bem vindo ao meu perfil!
 
-- 🌱 Desenvolvedor web full-stack formado na [Trybe](https://www.betrybe.com/).
+- 🌱 Desenvolvedor web full-stack formado pela [Trybe](https://www.betrybe.com/).
 - 💰 Trabalhando com back-end na [Acordo Fechado](https://www.acordofechado.com.br/).
-- 🖥️ Atualmente trablhando com Node.js, Postgres, TypeORM e Typescript.
+- 🖥️ Atualmente trabalhando com Node.js, PostgresSQL, MongoDB, TypeORM e Typescript.
 - 🎨 Já tive contato com React, Redux, CSS e Tailwind no Front-end.
 - 💻 Atualmente estudando Python, POO e Design Patterns.
 - 💡 Sou um amante de café sem açucar, viajar e aprender coisas novas.
