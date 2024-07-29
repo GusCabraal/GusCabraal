@@ -1,8 +1,8 @@
 ### Olá visitante! Sejá bem vindo ao meu perfil!
 
 - 💰 Trabalhando com back-end na [Acordo Fechado](https://www.acordofechado.com.br/).
-- 🖥️ Trabalhando com Typescript, PostgresSQL, MongoDB e GCP.
-- 💻 Estudando Python, POO e Design Patterns.
+- 🖥️ Utilizando Typescript, PostgresSQL, Python e GCP.
+- 💻 Estudando POO e Design Patterns.
 
 <div align="center">
   <a href="https://github.com/GusCabraal">
