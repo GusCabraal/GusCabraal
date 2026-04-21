@@ -1,6 +1,6 @@
 ### Olá visitante! Sejá bem vindo ao meu perfil!
 
-- 💰 Trabalhando com back-end na [Acordo Fechado](https://www.acordofechado.com.br/).
+- 💰 Trabalhando com fullstack no [Acordo Fechado](https://www.acordofechado.com.br/).
 - 🖥️ Utilizando Typescript, PostgresSQL e GCP.
 
 <div align="center">
