@@ -1,7 +1,7 @@
 ### Olá visitante! Sejá bem vindo ao meu perfil!
 
-- 💰 Trabalhando com fullstack no [Acordo Fechado](https://www.acordofechado.com.br/).
-- 🖥️ Utilizando Typescript, PostgresSQL e GCP.
+- 💰 Trabalhando como fullstack no [Acordo Fechado](https://www.acordofechado.com.br/).
+- 🖥️ Utilizando Typescript, React, PostgresSQL e GCP.
 
 <div align="center">
 <!--   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=GusCabraal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs"/> -->
